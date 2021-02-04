@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateLib", "PrivateLib\PrivateLib.csproj", "{0F38C2C3-F5A5-439A-9CBD-DFEA968A31F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SourceLink_PrivateLib", "SourceLink_PrivateLib\SourceLink_PrivateLib.csproj", "{AF9CB4F5-2557-4F0C-A0B6-553EE92B4DFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0F38C2C3-F5A5-439A-9CBD-DFEA968A31F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F38C2C3-F5A5-439A-9CBD-DFEA968A31F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F38C2C3-F5A5-439A-9CBD-DFEA968A31F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F38C2C3-F5A5-439A-9CBD-DFEA968A31F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9CB4F5-2557-4F0C-A0B6-553EE92B4DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9CB4F5-2557-4F0C-A0B6-553EE92B4DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9CB4F5-2557-4F0C-A0B6-553EE92B4DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9CB4F5-2557-4F0C-A0B6-553EE92B4DFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {216129B3-AC4B-4D41-8EE2-E4E338D5580B}
+		SolutionGuid = {2DFA5338-98E8-423D-957E-93582A069EA9}
 	EndGlobalSection
 EndGlobal
